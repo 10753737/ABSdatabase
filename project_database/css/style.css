@@ -1,0 +1,37 @@
+body,h1,h2,h3,h4,h5,h6 {font-family: "Courier", sans-serif}
+
+.w3-bar,h1,button {font-family: "Courier", sans-serif}
+
+.fa-anchor,.fa-coffee,.fa-search,.fa-book,.fa-check,.fa-database,.fa-clipboard {font-size:200px}
+
+.login-form {
+    margin: 0 auto;
+    width: 400px;
+}
+
+.login-button {
+	text-align: center;
+}
+
+.w3-button w3-black {
+    position: absolute;
+    top: 50%;	
+}
+
+.w3-study {
+	margin: 0 auto;
+	width: 900px;
+	font-size: 30px;
+}
+
+.w4-study {
+	margin: 0 auto;
+	width: 900px;
+	font-size: 15px;
+}
+
+.w5-study {
+	margin: 0 auto;
+	width: 1500px;
+	font-size: 15px;
+}
